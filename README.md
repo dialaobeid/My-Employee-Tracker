@@ -35,4 +35,4 @@ Link to github repository: https://github.com/dialaobeid/My-Employee-Tracker
 
 Link to walkthrough video:
 
-Screenshot of application: 
+Screenshot of application: ![Alt text](/images/Screenshot-Mod-12.png)
