@@ -33,6 +33,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Links
 Link to github repository: https://github.com/dialaobeid/My-Employee-Tracker
 
-Link to walkthrough video:
+Link to walkthrough video: https://drive.google.com/file/d/125sJQYeGR2iRRay1sUBKgD-YzxYhlVDT/view
+- I apologize for not expanding the terminal for a better view when I was recording
 
 Screenshot of application: ![Alt text](/images/Screenshot-Mod-12.png)
